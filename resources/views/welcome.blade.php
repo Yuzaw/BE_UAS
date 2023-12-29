@@ -39,7 +39,7 @@
           <div class="header-actions">
             <button class="header-action-btn">
               <ion-icon name="phone-portrait-outline" aria-hidden="true"></ion-icon>
-              <p class="header-action-label">Unduh aplikasi</p>
+              <p class="header-action-label">Download aplikasi</p>
             </button>
           </div>
       
